@@ -1,0 +1,2 @@
+This is SampleFileTest1 >> SampleFiletest1.txt
+echo This is SampleFileTest2
