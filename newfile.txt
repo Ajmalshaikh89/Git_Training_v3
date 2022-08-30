@@ -1,1 +1,2 @@
 I am Ajmal Shaikh working with Lloyds project for the past 2.5 years
+Extensively working on DevOps part with GIT and Jenkins with Terraform
